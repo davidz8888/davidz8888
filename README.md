@@ -3,6 +3,14 @@
 **4th Year Computer Science Student** at the University of British Columbia  
 Programmer + Artist — I build real-time graphics pipelines and design immersive gameplay experiences.
 
+## Links
+
+- [BLIGHTWRECK on Steam](https://store.steampowered.com/app/2332060/BLIGHTWRECK/)
+- [Sonic Incytes](https://www.sonicincytes.com/)
+- [SilkSpun Demo](https://davidz8888.github.io/SilkSpun/)
+- [Email Me](mailto:davidzhang561@gmail.com)
+
+
 ## Technical Skills
 
 **Languages:** Python, C++, TypeScript, Java, Lua, GLSL  
@@ -45,9 +53,3 @@ University of British Columbia — _Expected Graduation: Apr 2026_
 
 ---
 
-## 🔗 Links
-
-- [BLIGHTWRECK on Steam](https://store.steampowered.com/app/2332060/BLIGHTWRECK/)
-- [Sonic Incytes](https://www.sonicincytes.com/)
-- [SilkSpun Demo](https://davidz8888.github.io/SilkSpun/)
-- [Email Me](mailto:davidzhang561@gmail.com)
