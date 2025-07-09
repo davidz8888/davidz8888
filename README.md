@@ -29,9 +29,9 @@ Programmer + Artist — I build real-time graphics pipelines and design immersiv
 ## Personal Projects
 
 ### Realtime Rendering Pipeline _(TypeScript, Three.js, GLSL)_
-- Built a voxel-based deferred render system with DDA raycasting for accurate point/infinite light shadows.
+- Built a voxel-based deferred render system with DDA raycasting for accurate point/infinite/soft light shadows.
 - Implemented real-time semi-Lagrangian fluid sim for volumetric mist affected by geometry and input.
-- Designed for 2D artists to create 3D effects—no extra 3D tools needed.
+- Designed for 2D artists to create 3D effects with no extra 3D tools needed.
 
 ### Neural Image Classifier _(Java, JavaFX)_
 - Developed an object-oriented neural net trained via mutation and evolution to differentiate images.
