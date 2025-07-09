@@ -7,7 +7,7 @@ Programmer + Artist — I build real-time graphics pipelines and design immersiv
 
 **Languages:** Python, C++, TypeScript, Java, Lua, GLSL  
 **Tools:** Git, Jenkins, AWS, THREE.js  
-**Core Skills:** Computer Graphics, Game Design, DevOps, Object-Oriented Design, Visual Art
+**Skills:** Computer Graphics, Game Design, DevOps, Object-Oriented Design, Visual Art
 
 ---
 
