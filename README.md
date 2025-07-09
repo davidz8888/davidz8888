@@ -1,7 +1,7 @@
 # Hi, I'm David
 
-🎓 **4th Year Computer Science Student** at the University of British Columbia  
-🎨 Artist + 👨‍💻 Programmer — I build real-time graphics pipelines and design immersive gameplay experiences.
+**4th Year Computer Science Student** at the University of British Columbia  
+Programmer + Artist — I build real-time graphics pipelines and design immersive gameplay experiences.
 
 ## Technical Skills
 
