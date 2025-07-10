@@ -49,7 +49,7 @@ Programmer + Artist — I build real-time graphics pipelines and design immersiv
 ## Education
 
 **BSc in Computer Science**  
-University of British Columbia — _Expected Graduation: Apr 2026_
+University of British Columbia — _Expected Graduation: Apr 2027_
 
 ---
 
